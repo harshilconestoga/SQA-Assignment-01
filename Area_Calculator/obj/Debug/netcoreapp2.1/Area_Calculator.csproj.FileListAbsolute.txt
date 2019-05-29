@@ -1,0 +1,11 @@
+F:\Sharifi sqa\Area_Calculator\Area_Calculator\bin\Debug\netcoreapp2.1\Area_Calculator.deps.json
+F:\Sharifi sqa\Area_Calculator\Area_Calculator\bin\Debug\netcoreapp2.1\Area_Calculator.runtimeconfig.json
+F:\Sharifi sqa\Area_Calculator\Area_Calculator\bin\Debug\netcoreapp2.1\Area_Calculator.runtimeconfig.dev.json
+F:\Sharifi sqa\Area_Calculator\Area_Calculator\bin\Debug\netcoreapp2.1\Area_Calculator.dll
+F:\Sharifi sqa\Area_Calculator\Area_Calculator\bin\Debug\netcoreapp2.1\Area_Calculator.pdb
+F:\Sharifi sqa\Area_Calculator\Area_Calculator\obj\Debug\netcoreapp2.1\Area_Calculator.csprojAssemblyReference.cache
+F:\Sharifi sqa\Area_Calculator\Area_Calculator\obj\Debug\netcoreapp2.1\Area_Calculator.csproj.CoreCompileInputs.cache
+F:\Sharifi sqa\Area_Calculator\Area_Calculator\obj\Debug\netcoreapp2.1\Area_Calculator.AssemblyInfoInputs.cache
+F:\Sharifi sqa\Area_Calculator\Area_Calculator\obj\Debug\netcoreapp2.1\Area_Calculator.AssemblyInfo.cs
+F:\Sharifi sqa\Area_Calculator\Area_Calculator\obj\Debug\netcoreapp2.1\Area_Calculator.dll
+F:\Sharifi sqa\Area_Calculator\Area_Calculator\obj\Debug\netcoreapp2.1\Area_Calculator.pdb
